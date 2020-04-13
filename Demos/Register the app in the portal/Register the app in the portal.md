@@ -1,4 +1,5 @@
 In this exercise, you will create a new Azure AD web application registration using the Azure Active Directory admin center.
+https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview
 
     Open a browser and navigate to the Azure Active Directory admin center. Login using a personal account (aka: Microsoft Account) or Work or School Account.
 
