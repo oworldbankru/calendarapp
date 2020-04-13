@@ -4,4 +4,3 @@ You've completed the Node.js Microsoft Graph tutorial. Now that you have a worki
 
 ## Feedback
 
-Please provide any feedback on this tutorial in the [GitHub repository](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp).
