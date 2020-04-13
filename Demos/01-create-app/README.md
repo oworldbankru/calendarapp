@@ -9,22 +9,22 @@ Create a Node.js Express web app
 In this exercise you will use Express to build a web app. If you don't already have the Express generator installed, you can install it from your command-line interface (CLI) with the following command.
 
 
-npm install express-generator -g
+    npm install express-generator -g
 
 Open your CLI, navigate to a directory where you have rights to create files, and run the following command to create a new Express app that uses Handlebars as the rendering engine.
 
 
-express --hbs graph-tutorial
+    express --hbs graph-tutorial
 
 The Express generator creates a new directory called graph-tutorial and scaffolds an Express app. Navigate to this new directory and enter the following command to install dependencies.
 
 
-npm install
+    npm install
 
 Once that command completes, use the following command to start a local web server.
 
 
-npm start
+    npm start
 
 Open your browser and navigate to http://localhost:3000. If everything is working, you will see a "Welcome to Express" message. If you don't see that message, check the Express getting started guide.
 
@@ -42,13 +42,13 @@ Before moving on, install some additional gems that you will use later:
 Run the following command in your CLI.
 
 
-npm install dotenv@8.2.0 moment@2.24.0 connect-flash@0.1.1 express-session@1.17.0 isomorphic-fetch@2.2.1
-npm install passport-azure-ad@4.2.0 simple-oauth2@3.1.0 @microsoft/microsoft-graph-client@2.0.0
+    npm install dotenv@8.2.0 moment@2.24.0 connect-flash@0.1.1 express-session@1.17.0 isomorphic-fetch@2.2.1
+    npm install passport-azure-ad@4.2.0 simple-oauth2@3.1.0 @microsoft/microsoft-graph-client@2.0.0
 
 
 
 Now update the application to use the connect-flash and express-session middleware. Open the ./app.js file and add the following require statement to the top of the file.
 JavaScript
 
-var session = require('express-session');
-var flash = require('connect-flash');
+    var session = require('express-session');
+    var flash = require('connect-flash');
