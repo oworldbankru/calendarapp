@@ -13,10 +13,12 @@ The [Demos](./Demos) directory in this repository contains copies of the project
 
 - [01-create-app](Demos/01-create-app): Completed [Create a Node.js Express web app]
 
+Extra Step is to add the keys from Microsoft Azure 
+  https://github.com/oworldbankru/calendarapp/blob/master/Demos/Register%20the%20app%20in%20the%20portal/Register%20the%20app%20in%20the%20portal.md
+
 - [02-add-aad-auth](Demos/02-add-aad-auth): Completed [Add Azure AD authentication]
 
-  Extra Step is to add the keys from Microsoft Azure 
-  https://github.com/oworldbankru/calendarapp/blob/master/Demos/Register%20the%20app%20in%20the%20portal/Register%20the%20app%20in%20the%20portal.md
+
 
 - [03-add-msgraph](Demos/03-add-msgraph): Completed [Get calendar data]
 
