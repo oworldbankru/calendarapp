@@ -6,15 +6,20 @@ This module will introduce you to working with Microsoft Graph to access data in
 
 In this lab you will create a Node.js Express web application using the Azure AD v2 authentication endpoint to access data in Office 365 using Microsoft Graph.
 
-- [Node.js Microsoft Graph tutorial](https://docs.microsoft.com/graph/training/node-tutorial)
 
 ## Demos
 
 The [Demos](./Demos) directory in this repository contains copies of the project that correspond to completing individual sections of the tutorial. If you just want to demo a particular section of the tutorial, you can start with the version from the previous section.
 
-- [01-create-app](Demos/01-create-app): Completed [Create a Node.js Express web app](https://docs.microsoft.com/graph/training/node-tutorial?tutorial-step=1)
-- [02-add-aad-auth](Demos/02-add-aad-auth): Completed [Add Azure AD authentication](https://docs.microsoft.com/graph/training/node-tutorial?tutorial-step=3)
-- [03-add-msgraph](Demos/03-add-msgraph): Completed [Get calendar data](https://docs.microsoft.com/graph/training/node-tutorial?tutorial-step=4)
+- [01-create-app](Demos/01-create-app): Completed [Create a Node.js Express web app]
+
+- [02-add-aad-auth](Demos/02-add-aad-auth): Completed [Add Azure AD authentication]
+
+  Extra Step is to add the keys from Microsoft Azure 
+  https://github.com/oworldbankru/calendarapp/blob/master/Demos/Register%20the%20app%20in%20the%20portal/Register%20the%20app%20in%20the%20portal.md
+
+- [03-add-msgraph](Demos/03-add-msgraph): Completed [Get calendar data]
+
 
 ## Completed sample
 
