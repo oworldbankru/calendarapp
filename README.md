@@ -1,4 +1,4 @@
-# Microsoft Graph Training Module - Build Node.js Express apps with Microsoft Graph
+# Microsoft Graph Training Module - Build Node.js Express apps with Microsoft Graph CHANGES
 
 This module will introduce you to working with Microsoft Graph to access data in Office 365 by building Node.js Express web applications.
 
